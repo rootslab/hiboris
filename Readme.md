@@ -8,6 +8,8 @@
 
 > **_Hiboris_**, a utility module to load __[hiredis](https://github.com/redis/hiredis-node)__ _native parser_, or to fall back to __[Boris](https://github.com/rootslab/boris)__, _a pure JS parser_.
 
+> __NOTE__: This module was developed for and used by __[♠ Spade](https://github.com/rootslab/spade)__, a __full-featured__ modular client for __Redis__.
+
 ###Install
 
 ```bash
