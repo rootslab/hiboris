@@ -6,7 +6,7 @@
 
 [![NPM](https://nodei.co/npm-dl/hiboris.png)](https://nodei.co/npm/hiboris/)
 
-> **_Hiboris_**, a utility module to load __[hiredis](https://github.com/redis/hiredis-node) native parser__, or to fall back to __[Boris](https://github.com/rootslab/boris), a __pure JS parser__.
+> **_Hiboris_**, a utility module to load __[hiredis](https://github.com/redis/hiredis-node)__ _native parser_, or to fall back to __[Boris](https://github.com/rootslab/boris)__, _a pure JS parser_.
 
 ###Install
 
