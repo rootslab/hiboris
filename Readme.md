@@ -92,11 +92,11 @@ Hiboris#reset() : undefined
 'match' : function ( Boolean isError, Array result, Function convert ) : undefined
 
 /*
- * A parse error occurred.
+ * A parsing error has occurred.
  *
  * NOTE: on error, parser state will be reset.
  */
-'error' : function ( String emsg ) : undefined
+'error' : function ( Error err ) : undefined
 ```
 
 ------------------------------------------------------------------------
