@@ -1,7 +1,8 @@
 ###Hiboris
 [![build status](https://secure.travis-ci.org/rootslab/hiboris.png?branch=master)](http://travis-ci.org/rootslab/hiboris) 
 [![NPM version](https://badge.fury.io/js/hiboris.png)](http://badge.fury.io/js/hiboris)
-
+[![build status](https://david-dm.org/rootslab/spade.png)](https://david-dm.org/rootslab/hiboris)
+[![devDependency Status](https://david-dm.org/rootslab/spade/dev-status.png)](https://david-dm.org/rootslab/hiboris#info=devDependencies)
 [![NPM](https://nodei.co/npm/hiboris.png?downloads=true&stars=true)](https://nodei.co/npm/hiboris/)
 
 [![NPM](https://nodei.co/npm-dl/hiboris.png)](https://nodei.co/npm/hiboris/)
@@ -17,7 +18,14 @@ $ npm install hiboris [-g]
 // clone repo
 $ git clone git@github.com:rootslab/hiboris.git
 ```
+__install and update devDependencies (hiredis)__:
 
+```bash
+ $ cd hiboris/
+ $ npm install --dev
+ # update
+ $ npm update --dev
+```
 > __require__:
 
 ```javascript
@@ -25,6 +33,8 @@ var Hiboris  = require( 'hiboris' );
 ```
 
 ###Run Tests
+
+> __NOTE__: Install _devDependencies_ before running tests, see above.
 
 ```bash
 $ cd hiboris/
