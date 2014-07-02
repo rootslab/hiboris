@@ -64,6 +64,12 @@ opt = {
      * For default the hiredis native parser is disabled.
     */
     hiredis : false
+
+    /*
+     * For default, the parser returns strings instead of buffers,
+     * returning buffers will slowdown hiredis parsing of about ~60%. 
+     */
+    , return_buffers : false
 }
 ```
 
