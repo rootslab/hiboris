@@ -1,11 +1,20 @@
 ###Hiboris
-[![build status](https://secure.travis-ci.org/rootslab/hiboris.png?branch=master)](http://travis-ci.org/rootslab/hiboris) 
-[![NPM version](https://badge.fury.io/js/hiboris.png)](http://badge.fury.io/js/hiboris)
-[![build status](https://david-dm.org/rootslab/spade.png)](https://david-dm.org/rootslab/hiboris)
-[![devDependency Status](https://david-dm.org/rootslab/spade/dev-status.png)](https://david-dm.org/rootslab/hiboris#info=devDependencies)
-[![NPM](https://nodei.co/npm/hiboris.png?downloads=true&stars=true)](https://nodei.co/npm/hiboris/)
 
-[![NPM](https://nodei.co/npm-dl/hiboris.png)](https://nodei.co/npm/hiboris/)
+[![LICENSE](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/rootslab/hiboris#mit-license)
+
+[![NPM VERSION](http://img.shields.io/npm/v/hiboris.svg)](https://www.npmjs.org/package/hiboris)
+[![TRAVIS CI BUILD](http://img.shields.io/travis/rootslab/hiboris.svg)](http://travis-ci.org/rootslab/hiboris)
+[![BUILD STATUS](http://img.shields.io/david/rootslab/hiboris.svg)](https://david-dm.org/rootslab/hiboris)
+[![DEVDEPENDENCY STATUS](http://img.shields.io/david/dev/rootslab/hiboris.svg)](https://david-dm.org/rootslab/hiboris#info=devDependencies)
+
+[![NPM GRAPH1](https://nodei.co/npm-dl/hiboris.png)](https://nodei.co/npm/hiboris/)
+
+[![GITHUB tag](http://img.shields.io/github/tag/rootslab/hiboris.svg)](https://github.com/rootslab/hiboris/tags)
+[![ISSUES](http://img.shields.io/github/issues/rootslab/hiboris.svg)](https://github.com/rootslab/hiboris/issues)
+[![GITTIP](http://img.shields.io/gittip/rootslab.svg)](https://www.gittip.com/rootslab/)
+[![NPM DOWNLOADS](http://img.shields.io/npm/dm/hiboris.svg)](http://npm-stat.com/charts.html?package=hiboris)
+
+[![NPM GRAPH2](https://nodei.co/npm/hiboris.png?downloads=true&stars=true)](https://nodei.co/npm/hiboris/)
 
 > **_Hiboris_**, a utility module to load __[hiredis](https://github.com/redis/hiredis-node)__ _native parser_, or to fall back to __[Boris](https://github.com/rootslab/boris)__, _a pure JS parser_.
 
