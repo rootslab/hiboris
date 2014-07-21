@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "bolgia" : ">=2.6.0",
-    "boris" : ">=0.10.3"
+    "boris" : ">=0.10.4"
   },
   "devDependencies": {
     "hiredis" : ">=0.1.17"
