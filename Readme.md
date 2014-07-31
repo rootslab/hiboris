@@ -1,6 +1,8 @@
 ###Hiboris
 
 [![LICENSE](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/rootslab/hiboris#mit-license)
+[![GITTIP](http://img.shields.io/gittip/rootslab.svg)](https://www.gittip.com/rootslab/)
+[![NPM DOWNLOADS](http://img.shields.io/npm/dm/hiboris.svg)](http://npm-stat.com/charts.html?package=hiboris)
 
 [![NPM VERSION](http://img.shields.io/npm/v/hiboris.svg)](https://www.npmjs.org/package/hiboris)
 [![TRAVIS CI BUILD](http://img.shields.io/travis/rootslab/hiboris.svg)](http://travis-ci.org/rootslab/hiboris)
@@ -8,11 +10,6 @@
 [![DEVDEPENDENCY STATUS](http://img.shields.io/david/dev/rootslab/hiboris.svg)](https://david-dm.org/rootslab/hiboris#info=devDependencies)
 
 [![NPM GRAPH1](https://nodei.co/npm-dl/hiboris.png)](https://nodei.co/npm/hiboris/)
-
-[![GITHUB tag](http://img.shields.io/github/tag/rootslab/hiboris.svg)](https://github.com/rootslab/hiboris/tags)
-[![ISSUES](http://img.shields.io/github/issues/rootslab/hiboris.svg)](https://github.com/rootslab/hiboris/issues)
-[![GITTIP](http://img.shields.io/gittip/rootslab.svg)](https://www.gittip.com/rootslab/)
-[![NPM DOWNLOADS](http://img.shields.io/npm/dm/hiboris.svg)](http://npm-stat.com/charts.html?package=hiboris)
 
 [![NPM GRAPH2](https://nodei.co/npm/hiboris.png?downloads=true&stars=true)](https://nodei.co/npm/hiboris/)
 
