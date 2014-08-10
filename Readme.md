@@ -1,5 +1,8 @@
 ###Hiboris
 
+[![CODECLIMATE](https://codeclimate.com/github/rootslab/hiboris/badges/gpa.svg)](https://codeclimate.com/github/rootslab/hiboris)
+[![CODECLIMATE-TEST-COVERAGE](https://codeclimate.com/github/rootslab/hiboris/badges/coverage.svg)](https://codeclimate.com/github/rootslab/hiboris)
+
 [![LICENSE](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/rootslab/hiboris#mit-license)
 [![GITTIP](http://img.shields.io/gittip/rootslab.svg)](https://www.gittip.com/rootslab/)
 [![NPM DOWNLOADS](http://img.shields.io/npm/dm/hiboris.svg)](http://npm-stat.com/charts.html?package=hiboris)
