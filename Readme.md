@@ -1,16 +1,16 @@
 ###Hiboris
 
-[![CODECLIMATE](https://codeclimate.com/github/rootslab/hiboris/badges/gpa.svg)](https://codeclimate.com/github/rootslab/hiboris)
-[![CODECLIMATE-TEST-COVERAGE](https://codeclimate.com/github/rootslab/hiboris/badges/coverage.svg)](https://codeclimate.com/github/rootslab/hiboris)
+[[![CODECLIMATE](http://img.shields.io/codeclimate/github/rootslab/hiboris.svg?style=flat)](https://codeclimate.com/github/rootslab/hiboris)
+[![CODECLIMATE-TEST-COVERAGE](http://img.shields.io/codeclimate/coverage/github/rootslab/hiboris.svg?style=flat)](https://codeclimate.com/github/rootslab/hiboris)
 
-[![LICENSE](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/rootslab/hiboris#mit-license)
-[![GITTIP](http://img.shields.io/gittip/rootslab.svg)](https://www.gittip.com/rootslab/)
-[![NPM DOWNLOADS](http://img.shields.io/npm/dm/hiboris.svg)](http://npm-stat.com/charts.html?package=hiboris)
+[![LICENSE](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/rootslab/hiboris#mit-license)
+[![GITTIP](http://img.shields.io/gittip/rootslab.svg?style=flat)](https://www.gittip.com/rootslab/)
+[![NPM DOWNLOADS](http://img.shields.io/npm/dm/hiboris.svg?style=flat)](http://npm-stat.com/charts.html?package=hiboris)
 
-[![NPM VERSION](http://img.shields.io/npm/v/hiboris.svg)](https://www.npmjs.org/package/hiboris)
-[![TRAVIS CI BUILD](http://img.shields.io/travis/rootslab/hiboris.svg)](http://travis-ci.org/rootslab/hiboris)
-[![BUILD STATUS](http://img.shields.io/david/rootslab/hiboris.svg)](https://david-dm.org/rootslab/hiboris)
-[![DEVDEPENDENCY STATUS](http://img.shields.io/david/dev/rootslab/hiboris.svg)](https://david-dm.org/rootslab/hiboris#info=devDependencies)
+[![NPM VERSION](http://img.shields.io/npm/v/hiboris.svg?style=flat)](https://www.npmjs.org/package/hiboris)
+[![TRAVIS CI BUILD](http://img.shields.io/travis/rootslab/hiboris.svg?style=flat)](http://travis-ci.org/rootslab/hiboris)
+[![BUILD STATUS](http://img.shields.io/david/rootslab/hiboris.svg?style=flat)](https://david-dm.org/rootslab/hiboris)
+[![DEVDEPENDENCY STATUS](http://img.shields.io/david/dev/rootslab/hiboris.svg?style=flat)](https://david-dm.org/rootslab/hiboris#info=devDependencies)
 
 [![NPM GRAPH1](https://nodei.co/npm-dl/hiboris.png)](https://nodei.co/npm/hiboris/)
 
