@@ -1,6 +1,6 @@
 {
   "name": "hiboris",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "description": "Hiboris, a utility module to load Hiredis native parser, or to fall back to Boris, a pure JS parser.",
   "homepage": "https://github.com/rootslab/hiboris",
   "private": false,
