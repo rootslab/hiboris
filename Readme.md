@@ -1,6 +1,6 @@
 ###Hiboris
 
-[[![CODECLIMATE](http://img.shields.io/codeclimate/github/rootslab/hiboris.svg?style=flat)](https://codeclimate.com/github/rootslab/hiboris)
+[![CODECLIMATE](http://img.shields.io/codeclimate/github/rootslab/hiboris.svg?style=flat)](https://codeclimate.com/github/rootslab/hiboris)
 [![CODECLIMATE-TEST-COVERAGE](http://img.shields.io/codeclimate/coverage/github/rootslab/hiboris.svg?style=flat)](https://codeclimate.com/github/rootslab/hiboris)
 
 [![LICENSE](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/rootslab/hiboris#mit-license)
