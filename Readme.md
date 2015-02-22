@@ -1,20 +1,23 @@
 ###Hiboris
 
-[![CODECLIMATE](http://img.shields.io/codeclimate/github/rootslab/hiboris.svg?style=flat)](https://codeclimate.com/github/rootslab/hiboris)
-[![CODECLIMATE-TEST-COVERAGE](http://img.shields.io/codeclimate/coverage/github/rootslab/hiboris.svg?style=flat)](https://codeclimate.com/github/rootslab/hiboris)
-
-[![LICENSE](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/rootslab/hiboris#mit-license)
-[![GITTIP](http://img.shields.io/gittip/rootslab.svg?style=flat)](https://www.gittip.com/rootslab/)
-[![NPM DOWNLOADS](http://img.shields.io/npm/dm/hiboris.svg?style=flat)](http://npm-stat.com/charts.html?package=hiboris)
-
 [![NPM VERSION](http://img.shields.io/npm/v/hiboris.svg?style=flat)](https://www.npmjs.org/package/hiboris)
+[![CODACY BADGE](https://img.shields.io/codacy/b18ed7d95b0a4707a0ff7b88b30d3def.svg?style=flat)](https://www.codacy.com/public/44gatti/hiboris)
+[![CODECLIMATE](http://img.shields.io/codeclimate/github/rootslab/hiboris.svg?style=flat)](https://codeclimate.com/github/rootslab/hiboris)
+[![CODECLIMATE-TEST-COVERAGE](https://img.shields.io/codeclimate/coverage/github/rootslab/hiboris.svg?style=flat)](https://codeclimate.com/github/rootslab/hiboris)
+[![LICENSE](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/rootslab/hiboris#mit-license)
+
 [![TRAVIS CI BUILD](http://img.shields.io/travis/rootslab/hiboris.svg?style=flat)](http://travis-ci.org/rootslab/hiboris)
 [![BUILD STATUS](http://img.shields.io/david/rootslab/hiboris.svg?style=flat)](https://david-dm.org/rootslab/hiboris)
 [![DEVDEPENDENCY STATUS](http://img.shields.io/david/dev/rootslab/hiboris.svg?style=flat)](https://david-dm.org/rootslab/hiboris#info=devDependencies)
+[![NPM DOWNLOADS](http://img.shields.io/npm/dm/hiboris.svg?style=flat)](http://npm-stat.com/charts.html?package=hiboris)
 
 [![NPM GRAPH1](https://nodei.co/npm-dl/hiboris.png)](https://nodei.co/npm/hiboris/)
 
 [![NPM GRAPH2](https://nodei.co/npm/hiboris.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/hiboris/)
+
+[![status](https://sourcegraph.com/api/repos/github.com/rootslab/hiboris/.badges/status.png)](https://sourcegraph.com/github.com/rootslab/hiboris)
+[![views](https://sourcegraph.com/api/repos/github.com/rootslab/hiboris/.counters/views.png)](https://sourcegraph.com/github.com/rootslab/hiboris)
+[![views 24h](https://sourcegraph.com/api/repos/github.com/rootslab/hiboris/.counters/views-24h.png)](https://sourcegraph.com/github.com/rootslab/hiboris)
 
 > **_Hiboris_**, a utility module to load __[hiredis](https://github.com/redis/hiredis-node)__ _native parser_, or to fall back to __[Boris](https://github.com/rootslab/boris)__, _a pure JS parser_.
 
@@ -31,9 +34,9 @@ __install and update devDependencies (hiredis)__:
 
 ```bash
  $ cd hiboris/
- $ npm install --dev
+ $ npm install
  # update
- $ npm update --dev
+ $ npm update
 ```
 > __require__:
 
@@ -129,7 +132,7 @@ Hiboris#reset() : undefined
 
 ### MIT License
 
-> Copyright (c) 2014 &lt; Guglielmo Ferri : 44gatti@gmail.com &gt;
+> Copyright (c) 2015 &lt; Guglielmo Ferri : 44gatti@gmail.com &gt;
 
 > Permission is hereby granted, free of charge, to any person obtaining
 > a copy of this software and associated documentation files (the

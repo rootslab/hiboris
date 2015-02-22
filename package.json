@@ -1,42 +1,42 @@
 {
-  "name": "hiboris",
-  "version": "1.4.1",
-  "description": "Hiboris, a utility module to load Hiredis native parser, or to fall back to Boris, a pure JS parser.",
-  "homepage": "https://github.com/rootslab/hiboris",
-  "private": false,
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/rootslab/hiboris.git"
-  },
-  "keywords": [
-    "hiboris",
-    "hiredis",
-    "boris",
-    "parser",
-    "redis parser",
-    "redis protocol"
-  ],
-  "author": {
-    "name": "Guglielmo Ferri",
-    "email": "44gatti@gmail.com"
-  },
-  "dependencies": {
-    "bolgia" : ">=2.7.4",
-    "boris" : ">=0.12.1"
-  },
-  "devDependencies": {
-    "hiredis" : ">=0.1.17"
-    },
-  "main": "index",
-  "engines": {
+  "name": "hiboris"
+  , "version": "1.5.0"
+  , "description": "Hiboris a utility module to load Hiredis native parser or to fall back to Boris a pure JS parser."
+  , "homepage": "https://github.com/rootslab/hiboris"
+  , "private": false
+  , "repository": {
+    "type": "git"
+    , "url": "git://github.com/rootslab/hiboris.git"
+  }
+  , "keywords": [
+    "hiboris"
+    , "hiredis"
+    , "boris"
+    , "parser"
+    , "redis parser"
+    , "redis protocol"
+  ]
+  , "author": {
+    "name": "Guglielmo Ferri"
+    , "email": "44gatti@gmail.com"
+  }
+  , "dependencies": {
+    "bolgia" : ">=2.7.4"
+    , "boris" : ">=0.12.2"
+  }
+  , "devDependencies": {
+    "hiredis" : ">=0.2.0"
+  }
+  , "main": "index"
+  , "engines": {
     "node": ">=0.8.x"
-  },
-  "scripts": {
+  }
+  , "scripts": {
     "test": "node test/run.js"
-  },
-  "license": "MIT",
-  "readmeFilename": "Readme.md",
-  "bugs": {
+  }
+  , "license": "MIT"
+  , "readmeFilename": "Readme.md"
+  , "bugs": {
     "url": "https://github.com/rootslab/hiboris/issues"
   }
 }
