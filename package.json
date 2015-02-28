@@ -1,6 +1,6 @@
 {
   "name": "hiboris"
-  , "version": "1.5.2"
+  , "version": "1.5.3"
   , "description": "Hiboris a utility module to load Hiredis native parser or to fall back to Boris a pure JS parser."
   , "homepage": "https://github.com/rootslab/hiboris"
   , "private": false
@@ -22,7 +22,7 @@
   }
   , "dependencies": {
     "bolgia" : ">=2.8.0"
-    , "boris" : ">=0.12.4"
+    , "boris" : ">=0.12.5"
   }
   , "devDependencies": {
     "hiredis" : ">=0.2.0"
