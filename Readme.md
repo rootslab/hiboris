@@ -1,29 +1,25 @@
-###Hiboris
+### Hiboris
 
 [![NPM VERSION](http://img.shields.io/npm/v/hiboris.svg?style=flat)](https://www.npmjs.org/package/hiboris)
 [![CODACY BADGE](https://img.shields.io/codacy/b18ed7d95b0a4707a0ff7b88b30d3def.svg?style=flat)](https://www.codacy.com/public/44gatti/hiboris)
-[![CODECLIMATE](http://img.shields.io/codeclimate/github/rootslab/hiboris.svg?style=flat)](https://codeclimate.com/github/rootslab/hiboris)
 [![CODECLIMATE-TEST-COVERAGE](https://img.shields.io/codeclimate/coverage/github/rootslab/hiboris.svg?style=flat)](https://codeclimate.com/github/rootslab/hiboris)
 [![LICENSE](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/rootslab/hiboris#mit-license)
 
+![NODE VERSION](https://img.shields.io/node/v/hiboris.svg)
 [![TRAVIS CI BUILD](http://img.shields.io/travis/rootslab/hiboris.svg?style=flat)](http://travis-ci.org/rootslab/hiboris)
 [![BUILD STATUS](http://img.shields.io/david/rootslab/hiboris.svg?style=flat)](https://david-dm.org/rootslab/hiboris)
 [![DEVDEPENDENCY STATUS](http://img.shields.io/david/dev/rootslab/hiboris.svg?style=flat)](https://david-dm.org/rootslab/hiboris#info=devDependencies)
-[![NPM DOWNLOADS](http://img.shields.io/npm/dm/hiboris.svg?style=flat)](http://npm-stat.com/charts.html?package=hiboris)
 
-[![NPM GRAPH1](https://nodei.co/npm-dl/hiboris.png)](https://nodei.co/npm/hiboris/)
+[![NPM MONTHLY](http://img.shields.io/npm/dm/hiboris.svg?style=flat)](http://npm-stat.com/charts.html?package=hiboris)
+![NPM YEARLY](https://img.shields.io/npm/dy/hiboris.svg)
 
-[![NPM GRAPH2](https://nodei.co/npm/hiboris.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/hiboris/)
-
-[![status](https://sourcegraph.com/api/repos/github.com/rootslab/hiboris/.badges/status.png)](https://sourcegraph.com/github.com/rootslab/hiboris)
-[![views](https://sourcegraph.com/api/repos/github.com/rootslab/hiboris/.counters/views.png)](https://sourcegraph.com/github.com/rootslab/hiboris)
-[![views 24h](https://sourcegraph.com/api/repos/github.com/rootslab/hiboris/.counters/views-24h.png)](https://sourcegraph.com/github.com/rootslab/hiboris)
+[![NPM GRAPH](https://nodei.co/npm/hiboris.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/hiboris/)
 
 > **_Hiboris_**, a utility module to load __[hiredis](https://github.com/redis/hiredis-node)__ _native parser_, or to fall back to __[Boris](https://github.com/rootslab/boris)__, _a pure JS parser_.
 
 > __NOTE__: This module was developed for and used by __[♠ Spade](https://github.com/rootslab/spade)__, a __full-featured__ modular client for __Redis__.
 
-###Install
+### Install
 
 ```bash
 $ npm install hiboris [-g]
@@ -44,7 +40,7 @@ __install and update devDependencies (hiredis)__:
 var Hiboris  = require( 'hiboris' );
 ```
 
-###Run Tests
+### Run Tests
 
 > __NOTE__: Install _devDependencies_ before running tests, see above.
 
@@ -53,7 +49,7 @@ $ cd hiboris/
 $ npm test
 ```
 
-###Constructor
+### Constructor
 
 > Create an instance, the argument within [ ] is optional.
 
@@ -66,7 +62,7 @@ Hiboris( [ Object opt ] ) : Hiboris | Boris
 // or
 new Hiboris( [ Object opt ] ) : Hiboris | Boris
 ```
-####Options
+#### Options
 
 > Default options are listed.
 
@@ -85,11 +81,11 @@ opt = {
 }
 ```
 
-###Sample Usage
+### Sample Usage
 
 > See [examples](example/).
 
-###Methods
+### Methods
 
 > Arguments within [ ] are optional.
 
@@ -106,7 +102,7 @@ Hiboris#reset() : undefined
 
 ```
 
-###Events
+### Events
 
 ```javascript
 /*
@@ -132,7 +128,7 @@ Hiboris#reset() : undefined
 
 ### MIT License
 
-> Copyright (c) 2015 &lt; Guglielmo Ferri : 44gatti@gmail.com &gt;
+> Copyright (c) 2015-present &lt; Guglielmo Ferri : 44gatti@gmail.com &gt;
 
 > Permission is hereby granted, free of charge, to any person obtaining
 > a copy of this software and associated documentation files (the
@@ -152,5 +148,3 @@ Hiboris#reset() : undefined
 > CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 > TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 > SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-[![GA](https://ga-beacon.appspot.com/UA-53998692-1/hiboris/Readme?pixel)](https://github.com/igrigorik/ga-beacon)
